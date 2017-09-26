@@ -1,0 +1,40 @@
+body {
+  margin-left: 4em;
+  margin-right: 4em; }
+
+nav {
+  background-color: black;
+  color: white; }
+
+.carousel .carousel-slider {
+  height: 300px; }
+
+#Hello {
+  padding: 1em 8em; }
+
+h2 {
+  border-bottom: 4px solid black; }
+
+.section-white {
+  display: inline-block;
+  height: 1000px; }
+
+.container
+img {
+  height: 300px;
+  width: 350px; }
+
+#form {
+  border: 2px solid #827F7F;
+  padding-left: 3em;
+  padding-right: 3em;
+  height: 650px; }
+
+.footer {
+  text-align: center;
+  border-top: 2px solid #827F7F; }
+  .footer img {
+    height: 30px;
+    width: 30px; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,53 @@
+$primary-color: black;
+$primary-border: 2px solid #827F7F;
+
+body{
+    margin-left: 4em;
+    margin-right: 4em;
+}
+nav {
+background-color: $primary-color;
+color: white;
+}
+.carousel .carousel-slider {
+    height:300px;
+}
+
+#Hello {
+    padding: 1em 8em;
+}
+
+h2 {
+    border-bottom: 4px solid $primary-color;
+}
+
+.section-white {
+    display: inline-block;
+    height:1000px;
+
+}
+
+
+.container
+ img {
+ height: 300px;
+ width: 350px;
+ }
+
+ #form {
+    border: $primary-border;
+    padding-left: 3em;
+    padding-right: 3em;
+    height: 650px;
+  }
+
+
+.footer {
+    text-align: center;
+    border-top: $primary-border;
+
+     img {
+        height: 30px;
+        width: 30px;
+     }
+    }
